@@ -11,9 +11,9 @@ title                    : "Vibhuti Mahajan"
 title_separator          : "-"
 name                     : &name "Vibhuti Mahajan"
 description              : &description "Research Engineer, Ebay"
-url                      : https://vibhuti-mahajan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://vibhutiM.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "vibhuti-mahajan.github.io"
+repository               : "vibhutiM.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "vibhuti-mahajan"
+  github           : "vibhutiM"
   google_plus      :
   keybase          :
   instagram        :
